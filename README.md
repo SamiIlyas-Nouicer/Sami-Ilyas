@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @samiyami
+- 👋 Hi, I’m @saminouicer
 - 👀 I’m interested in coding and design
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on maybe looking for help sometimes
-- 📫 How to reach me thesamii99@gmail.com
+- 📫 How to reach me nouicer.samiilyas@gmail.com
 
 <!---
 samiyami/samiyami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
