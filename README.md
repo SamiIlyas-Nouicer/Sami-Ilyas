@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saminouicer
 - 👀 I’m interested in coding and design
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on maybe looking for help sometimes
 - 📫 How to reach me nouicer.samiilyas@gmail.com
 
